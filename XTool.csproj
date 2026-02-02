@@ -82,6 +82,7 @@
     <Compile Include="ExternalToolException .cs" />
     <Compile Include="Module\ATSuitParser.cs" />
     <Compile Include="Module\ExprFormat.cs" />
+    <Compile Include="Module\ReadNfc.cs" />
     <Compile Include="Module\RecordMultiCh.cs" />
     <Compile Include="Module\TextFormat.cs" />
     <Compile Include="Program.cs" />
